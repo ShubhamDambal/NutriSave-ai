@@ -100,8 +100,6 @@ const NearbyRequests = () => {
         Nearby Donation Requests
       </Typography>
 
-      {msg && <Typography color="success.main">{msg}</Typography>}
-
       {userLocation && (
         <Box sx={{ mb: 3 }}>
           <Typography>Your Location: {userLocation.lat.toFixed(4)}, {userLocation.lng.toFixed(4)}</Typography>
@@ -138,6 +136,9 @@ const NearbyRequests = () => {
       <Typography variant="h6" gutterBottom>
         Donation Requests
       </Typography>
+
+      {msg && <Typography color="success.main">{msg}</Typography>}
+
       {donations.length === 0 ? (
         <Typography>No nearby donation requests.</Typography>
       ) : (

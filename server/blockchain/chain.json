@@ -377,5 +377,121 @@
     },
     "previousHash": "759f705e4a0da867c7b3960822f95bfdd6589d5147cab9a0cc2fee14ae274d26",
     "hash": "3c2226260e3926fc2fc92f1adf6e399f5e25f83843209dbd2495662ed04aa0b5"
+  },
+  {
+    "index": 31,
+    "timestamp": "1751636298961",
+    "data": {
+      "foodName": "Fruits",
+      "quantity": 40,
+      "donor": "6815a4e48a4ca33e69cf8920",
+      "receiver": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T13:38:18.960Z",
+      "status": "claimed"
+    },
+    "previousHash": "3c2226260e3926fc2fc92f1adf6e399f5e25f83843209dbd2495662ed04aa0b5",
+    "hash": "ce9e8bdb88c3807c621b5ea42e3729468d21a9707b726fdca416e92f90617d94"
+  },
+  {
+    "index": 32,
+    "timestamp": "1751636689418",
+    "data": {
+      "foodName": "sweet potato",
+      "quantity": 10,
+      "donor": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T13:44:49.417Z"
+    },
+    "previousHash": "ce9e8bdb88c3807c621b5ea42e3729468d21a9707b726fdca416e92f90617d94",
+    "hash": "1b7d2684c6f4ec27cc737bd92cb447e46f21a4d898975535a30a22dd2bcc68f5"
+  },
+  {
+    "index": 33,
+    "timestamp": "1751639140234",
+    "data": {
+      "foodName": "Burgers",
+      "quantity": 30,
+      "donor": "6815a4e48a4ca33e69cf8920",
+      "receiver": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T14:25:40.234Z",
+      "status": "claimed"
+    },
+    "previousHash": "1b7d2684c6f4ec27cc737bd92cb447e46f21a4d898975535a30a22dd2bcc68f5",
+    "hash": "b6ba99a152f09b789e7bd80312d368e5adfbe2aebb90f21c42bafcb93e24f4fa"
+  },
+  {
+    "index": 34,
+    "timestamp": "1751642531713",
+    "data": {
+      "foodName": "Gulab Jamun",
+      "quantity": 40,
+      "donor": "6815a4e48a4ca33e69cf8920",
+      "receiver": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:22:11.713Z",
+      "status": "claimed"
+    },
+    "previousHash": "b6ba99a152f09b789e7bd80312d368e5adfbe2aebb90f21c42bafcb93e24f4fa",
+    "hash": "991d1546c4ff3f4108fa3d2e1b4ee852a2a6716ced3c136c1f1b997fa485d17d"
+  },
+  {
+    "index": 35,
+    "timestamp": "1751643552134",
+    "data": {
+      "foodName": "Vegetable Biryani",
+      "quantity": 15,
+      "donor": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:39:12.134Z"
+    },
+    "previousHash": "991d1546c4ff3f4108fa3d2e1b4ee852a2a6716ced3c136c1f1b997fa485d17d",
+    "hash": "0886374cdd2d8b091ceffd6db1b71a718f2a3736cd8151069cc68504a0a6cd2f"
+  },
+  {
+    "index": 36,
+    "timestamp": "1751643603044",
+    "data": {
+      "foodName": "Vegetable Biryani",
+      "quantity": 15,
+      "donor": "6867d8847dca1885da5178a5",
+      "receiver": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:40:03.044Z",
+      "status": "claimed"
+    },
+    "previousHash": "0886374cdd2d8b091ceffd6db1b71a718f2a3736cd8151069cc68504a0a6cd2f",
+    "hash": "8e3f81ccd93e82aa8891d8486a3c8644d570ccd4e98f1f8daa6d312f80d1b415"
+  },
+  {
+    "index": 37,
+    "timestamp": "1751643651513",
+    "data": {
+      "foodName": "Vegetable Biryani",
+      "quantity": 15,
+      "donor": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:40:51.513Z"
+    },
+    "previousHash": "8e3f81ccd93e82aa8891d8486a3c8644d570ccd4e98f1f8daa6d312f80d1b415",
+    "hash": "80e72fec9f4b83bd63508a62ca76fe0e68ea2168c9018742455ff28a17d1534d"
+  },
+  {
+    "index": 38,
+    "timestamp": "1751644311212",
+    "data": {
+      "foodName": "Vegetable Biryani",
+      "quantity": 15,
+      "donor": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:51:51.212Z"
+    },
+    "previousHash": "80e72fec9f4b83bd63508a62ca76fe0e68ea2168c9018742455ff28a17d1534d",
+    "hash": "ade5b7ae42fbaa20ddb4149f9cab3aac60305036703deb5135de6a5d2ce41463"
+  },
+  {
+    "index": 39,
+    "timestamp": "1751644347343",
+    "data": {
+      "foodName": "Vegetable Biryani",
+      "quantity": 15,
+      "donor": "6867d8847dca1885da5178a5",
+      "timestamp": "2025-07-04T15:52:27.343Z"
+    },
+    "previousHash": "ade5b7ae42fbaa20ddb4149f9cab3aac60305036703deb5135de6a5d2ce41463",
+    "hash": "17924636478ab042be19fb04ca91a859eadb9dc0fc81bec9bc4f39636a1561b4"
   }
 ]

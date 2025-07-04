@@ -51,6 +51,16 @@ const AddDonationRequest = () => {
       });
       setMsg('Donation submitted successfully!');
       console.log(res.data);
+      //clear form
+      setForm({
+        foodName: '',
+        quantity: '',
+        lat: '',
+        lng: '',
+        storageTemp: '',
+        humidity: '',
+        cookingTime: ''
+      });
     } catch (err) {
       console.error(err);
       setMsg('Error submitting donation.');

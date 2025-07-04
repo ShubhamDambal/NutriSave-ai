@@ -14,12 +14,15 @@ const NearbyRequests = () => {
           lat: position.coords.latitude,
           lng: position.coords.longitude
         });
+        
       },
       (err) => {
         console.error('Geolocation error:', err);
       }
     );
   }, []);
+
+  console.log(userLocation);
 
   // Fetch donations
   useEffect(() => {
