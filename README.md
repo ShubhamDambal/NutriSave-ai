@@ -72,7 +72,7 @@ The model is trained using historical food spoilage data and is served through a
 ## 👤 Roles & Contributions
 
 - **Frontend & ML Developer** – Built responsive user interface in React, integrated Leaflet for map visualization, and connected the frontend to backend APIs. Additionally, contributed to the development and integration of the ML model.
-- **Team Members** – Focused on backend logic, ML model development, database design, and blockchain integration.
+- **Team Members** – Focused on backend logic, database design, and blockchain integration.
 
 ---
 
